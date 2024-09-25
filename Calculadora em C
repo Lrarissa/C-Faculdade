@@ -6,7 +6,7 @@ int main (){
 	int num2;
 	int result;
 	char op;
-	
+do{
 	printf ("---------------------------- \n");
 	printf ("  Calculadora Braz Cubas. \n");
 	printf ("---------------------------- \n");
@@ -20,7 +20,7 @@ int main (){
 	printf ("---------------------------- \n");
 	printf ("Digite o segundo numero: ");
 	scanf("%i", &num2);
-	do{
+	
 	  printf("Escolha a operação:\n");
       printf("1: +\n");
       printf("2: -\n");
